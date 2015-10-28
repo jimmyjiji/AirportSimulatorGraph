@@ -1,0 +1,6 @@
+New York,Beijing
+Beijing,Tokyo
+New York,Paris
+Beijing,Paris
+Moscow,Paris
+Buenos Aires,New York
